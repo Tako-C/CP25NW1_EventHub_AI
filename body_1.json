@@ -1,0 +1,186 @@
+{
+    "event_name": "EventHub Tech Expo 2026",
+    "event_type": "งานแสดงนวัตกรรมด้าน AI และเทคโนโลยี",
+    "location": "ฺBitec bangna",
+    "event_detail": "งานแสดงนวัตกรรมด้าน AI สำหรับนักศึกษาและบุคคลทั่วไป",
+    "total_registered": 500,
+    "total_checked_in": 420,
+    "total_feedback": 100,
+    "occupations": {
+        "นักศึกษา": 250,
+        "นักพัฒนาซอฟต์แวร์": 120
+    },
+    "role_distribution": {
+        "Visitor": 350,
+        "Exhibitor": 50,
+        "Staff": 20
+    },
+    "visitor_score": 4.5,
+    "exhibitor_score": 3.8,
+    "returning_visitor_rate": 20.0,
+  "top_issues": [
+    {
+      "category": "Technical",
+      "stakeholder_type": "Visitor",
+      "count": 45,
+      "example_text": "WiFi เชื่อมต่อยากมาก หลุดบ่อย",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Logistics",
+      "stakeholder_type": "Visitor",
+      "count": 20,
+      "example_text": "ที่จอดรถเต็มตั้งแต่ช่วงเช้า",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Registration",
+      "stakeholder_type": "Exhibitor",
+      "count": 10,
+      "example_text": "เครื่องสแกน QR Code ทำงานช้าบางช่วง",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Venue",
+      "stakeholder_type": "Exhibitor",
+      "count": 15,
+      "example_text": "พื้นที่บางโซนแออัด เดินลำบาก",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Food",
+      "stakeholder_type": "Visitor",
+      "count": 12,
+      "example_text": "อาหารในงานมีตัวเลือกน้อย",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Schedule",
+      "stakeholder_type": "Visitor",
+      "count": 9,
+      "example_text": "บาง session เริ่มช้ากว่ากำหนด",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Sound System",
+      "stakeholder_type": "Exhibitor",
+      "count": 8,
+      "example_text": "เสียงในห้องสัมมนาเบา ฟังไม่ค่อยชัด",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Signage",
+      "stakeholder_type": "Exhibitor",
+      "count": 7,
+      "example_text": "ป้ายบอกทางไปห้อง workshop ไม่ชัดเจน",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Booth",
+      "stakeholder_type": "Visitor",
+      "count": 6,
+      "example_text": "บางบูธไม่มี staff อธิบายสินค้า",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Crowd Management",
+      "stakeholder_type": "Visitor",
+      "count": 5,
+      "example_text": "แถวรอเข้า workshop ยาวมาก",
+      "sentiment": "Negative"
+    },
+    {
+      "category": "Networking",
+      "stakeholder_type": "Visitor",
+      "count": 2,
+      "example_text": "อยากให้มีพื้นที่ networking มากกว่านี้",
+      "sentiment": "Negative"
+    }
+  ],
+  "top_good": [
+    {
+      "category": "Registration",
+      "stakeholder_type": "Visitor,Exhibitor",
+      "count": 45,
+      "example_text": "การสแกน QR Code เข้างานได้ไว",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Content",
+      "stakeholder_type": "Visitor",
+      "count": 60,
+      "example_text": "Workshop AI สนุกและได้ความรู้จริง",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Venue",
+      "stakeholder_type": "Visitor,Exhibitor",
+      "count": 40,
+      "example_text": "สถานที่จัดงานกว้างและจัดโซนดี",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Staff",
+      "stakeholder_type": "Visitor",
+      "count": 35,
+      "example_text": "เจ้าหน้าที่ให้คำแนะนำดีและเป็นมิตร",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Booth",
+      "stakeholder_type": "Visitor",
+      "count": 30,
+      "example_text": "บูธบริษัทเทคโนโลยีน่าสนใจมาก",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Networking",
+      "stakeholder_type": "Visitor",
+      "count": 28,
+      "example_text": "ได้พบเพื่อนและคนในสายงานใหม่ๆ",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Schedule",
+      "stakeholder_type": "Visitor",
+      "count": 25,
+      "example_text": "ตารางกิจกรรมมีความหลากหลาย",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Food",
+      "stakeholder_type": "Visitor,Exhibitor",
+      "count": 22,
+      "example_text": "มีร้านอาหารให้เลือกหลายร้าน",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Technical",
+      "stakeholder_type": "Visitor",
+      "count": 20,
+      "example_text": "ระบบ live demo AI ทำได้ลื่นไหล",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Workshop",
+      "stakeholder_type": "Visitor",
+      "count": 18,
+      "example_text": "Workshop ได้ทดลองใช้ AI tools จริง",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Exhibitor",
+      "stakeholder_type": "Visitor",
+      "count": 15,
+      "example_text": "ผู้จัดแสดงให้ข้อมูลเชิงลึกดีมาก",
+      "sentiment": "Positive"
+    },
+    {
+      "category": "Atmosphere",
+      "stakeholder_type": "Visitor",
+      "count": 12,
+      "example_text": "บรรยากาศงานสนุกและทันสมัย",
+      "sentiment": "Positive"
+    }
+  ]
+}
