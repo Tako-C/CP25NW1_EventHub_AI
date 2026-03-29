@@ -1,0 +1,18 @@
+services:
+  fastapi-app:
+    build: .
+    container_name:  eventhub-analysis-ai
+    ports:
+      - "8000:8000"
+    # ดึงค่าจากไฟล์ .env มาใช้ใน Container
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    restart: always
+    networks:
+      - eventhub-net
+
+networks:
+  eventhub-net:
+    external: true
